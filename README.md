@@ -27,6 +27,13 @@
 - Análise de sentimentos e principais pontos positivos e negativos citados por pacientes. 
 
 **🎨Layout:** Figma.
+
 🎲**Link Dataset**[Clique Aqui](https://www.kaggle.com/datasets/miguelcorraljr/doctoralia-brasil)
+
 📊**Link Dashboard**[Clique Aqui!](https://app.powerbi.com/reportEmbed?reportId=d2b50fdc-81fc-4b15-b12d-b7002c3f8019&autoAuth=true&ctid=908c7dda-c74d-40de-947a-c8dd7f70524e)
 
+
+
+
+
+![Image](https://github.com/user-attachments/assets/c24fd322-356f-435b-93e2-a149c13a90d8)
